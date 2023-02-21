@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/eric
 [instagram]: https://www.instagram.com/eric
-[linkedin]: (https://www.linkedin.com/in/eric-estrada-9889561bb/]
+[linkedin]: https://www.linkedin.com/in/eric-estrada-9889561bb/
